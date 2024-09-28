@@ -78,16 +78,16 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost
    ```
 
 2. Navigate to the project directory:
-  ```bash
-  cd house-price-prediction
-  ```
+    ```bash
+    cd house-price-prediction
+    ```
 
 3. Make sure you have the following files in the project directory:
   -  train.csv
   -  test.csv
 
 4. Run the Jupyter Notebook:
-  ```bash
-  jupyter notebook house_price_prediction.ipynb
-  ```
+    ```bash
+    jupyter notebook house_price_prediction.ipynb
+    ```
 
